@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/ErasmuVall-prot2">
+    <Resource name="jdbc/ERASMUVALL" auth="Container" 
+              maxActive="100" maxIdle="30" maxWait="10000" 
+              username="root" password="root" 
+              driverClassName="org.apache.derby.jdbc.ClientDriver" 
+              url="jdbc:derby://localhost:1527/ERASMUVALL"
+              logAbandoned="true" removeAbandoned="true" 
+              removeAbandonedTimeout="60" type="javax.sql.DataSource" />
+</Context>
