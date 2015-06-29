@@ -34,7 +34,7 @@
             <div class="centro">
                 <h1>La antigua</h1>
                 <p class="textofacultad"><img class="fotofacultad" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/IglesiaDeSantaMar%C3%ADaLaAntigua20110905164612P1120844.jpg/1024px-IglesiaDeSantaMar%C3%ADaLaAntigua20110905164612P1120844.jpg" width="450" height="300" alt="Escuela Ingenierias Industriales">
-                    La iglesia de Santa María de La Antigua se levanta desde al menos el siglo XI en la ciudad de Valladolid. 
+                    La Iglesia de Santa María de La Antigua se levanta desde al menos el siglo XI en la ciudad de Valladolid. 
                     Conserva de fines de la centuria siguiente (siglo XII) una esbelta torre románica rematada con un chapitel 
                     apiramidado de teja y un pórtico en el lado norte también románico. El resto del edificio es gótico y 
                     neogótico, pues se levantó en el siglo XIV y fue intensamente restaurado y reconstruido en la primera mitad 
